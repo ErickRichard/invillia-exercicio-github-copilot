@@ -80,6 +80,10 @@ section h3 {
   font-weight: bold;
 }
 
+.activity-card p:last-child {
+  margin-bottom: 0; /* Remove margin from the last paragraph */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
